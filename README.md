@@ -43,6 +43,8 @@ ________________________________________
 ## Visualisations:
   1. Scatter plots of athletes vs. medals and age vs. medals provide valuable insights.
   2. Histogram of medal distribution highlights performance trends across teams.
+________________________________________
+
 
 ## Contribution
 Contributions are welcome! If you have suggestions or improvements, please create an issue or submit a pull request.
