@@ -30,12 +30,18 @@ ________________________________________
 
 
 ## Dataset
-The analysis is based on a dataset containing historical performance data of teams. Key features include:
+The analysis is based on a dataset containing historical performance data of teams. 
+Key features include:
 •	team: Name of the team or country.
+
 •	year: Year of the competition.
+
 •	athletes: Number of athletes representing the team.
+
 •	age: Average age of the team members.
+
 •	prev_medals: Number of medals won in previous competitions.
+
 •	medals: Actual number of medals won in the current competition.
 ________________________________________
 
