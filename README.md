@@ -4,7 +4,9 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Dataset](#dataset)
-- 
+- [Key Findings](#key_findings)
+    - [Visualisations](#visualisations)
+- [Contribution](#contribution)
 
 
 ## PROJECT OVERVIEW
@@ -32,3 +34,15 @@ The analysis is based on a dataset containing historical performance data of tea
 •	prev_medals: Number of medals won in previous competitions.
 •	medals: Actual number of medals won in the current competition.
 ________________________________________
+
+## Key Findings:
+
+  1. The number of athletes and previous medal counts are strongly correlated with current medal outcomes.
+  2. A trained linear regression model achieved satisfactory predictions with low error metrics.
+
+## Visualisations:
+  1. Scatter plots of athletes vs. medals and age vs. medals provide valuable insights.
+  2. Histogram of medal distribution highlights performance trends across teams.
+
+## Contribution
+Contributions are welcome! If you have suggestions or improvements, please create an issue or submit a pull request.
