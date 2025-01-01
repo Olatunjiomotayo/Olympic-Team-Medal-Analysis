@@ -18,9 +18,13 @@ ________________________________________
 
 ## Features
 •	Data Cleaning and Preprocessing: Handles missing values and irrelevant features for a cleaner dataset.
+
 •	Exploratory Data Analysis (EDA): Visualises relationships between variables such as athletes, age, and medals.
+
 •	Correlation Analysis: Identifies the strongest predictors for medal outcomes.
+
 •	Machine Learning Modelling: Implements a linear regression model to predict medals won by teams.
+
 •	Error Analysis: Evaluates model performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² Score.
 ________________________________________
 
